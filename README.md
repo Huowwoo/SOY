@@ -5,9 +5,4 @@
 *SOY*
 
 **SOY**
-Open the file containing the Linux mascot.
-Marvel at its beauty.
-
-    ![Tux, the Linux mascot](/assets/images/tux.png)
-
-Close the file.
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
